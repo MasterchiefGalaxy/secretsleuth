@@ -1,0 +1,3 @@
+password = "mysecretpassword"
+api_key = "12345-abcde-67890-fghij"
+username = "admin"
