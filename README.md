@@ -29,10 +29,10 @@ SecretSleuth is a mobile application security testing tool designed to scan IPA 
    ## Usage
 
    ```
-   python3 cli.py --target /path/to/your/file.ipa
+   python3 cli.py /path/to/your/file.ipa
    ```
    ```
-   python3 cli.py --target /path/to/your/file.apk
+   python3 cli.py /path/to/your/file.apk
    ```
    ## Command-Line Options
 
