@@ -15,7 +15,7 @@ SecretSleuth is a mobile application security testing tool designed to scan IPA 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/secretsleuth.git
+   git clone https://github.com/MasterchiefGalaxy/secretsleuth.git
    ```
    ```
    cd secretsleuth
