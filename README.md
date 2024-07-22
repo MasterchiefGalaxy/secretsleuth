@@ -37,9 +37,10 @@ SecretSleuth is a mobile application security testing tool designed to scan IPA 
    ```
    python3 cli.py /path/to/your/file.apk
    ```
-   ## Command-Line Options
+   ## Report Generation
 
-    --target: Path to the IPA or APK file to be scanned.
-    --patterns: Path to custom patterns JSON file (optional).
-    --report-format: Format of the generated report (html, json, csv). Default is html
-   
+    --Reports are generated in HTML format as
+   ##
+   ```
+   report.html
+   ```
